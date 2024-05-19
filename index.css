@@ -253,6 +253,10 @@ span {
       height: 50px;
       width: 100px;
   }
+
+  #backButton {
+    float: right;
+  }
   
   nav > :not(.sitename, .material-icons) {
     display: none;

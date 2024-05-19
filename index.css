@@ -251,7 +251,7 @@ span {
 
   #backButton, #sendEmailButton {
       height: 50px;
-      width: 160px;
+      width: 100px;
   }
   
   nav > :not(.sitename, .material-icons) {

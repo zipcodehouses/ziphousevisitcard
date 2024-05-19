@@ -251,11 +251,7 @@ span {
 
   #backButton, #sendEmailButton {
       height: 50px;
-      width: 100px;
-  }
-
-  #backButton {
-    float: right;
+      width: 70px;
   }
   
   nav > :not(.sitename, .material-icons) {

@@ -248,6 +248,11 @@ span {
     line-height: 1rem;
     letter-spacing: -0.3rem;
   }
+
+  #backButton, #sendEmailButton {
+      height: 50px;
+      width: 160px;
+  }
   
   nav > :not(.sitename, .material-icons) {
     display: none;
